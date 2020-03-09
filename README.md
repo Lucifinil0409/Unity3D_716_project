@@ -2,7 +2,8 @@
 **由于Github无法上传大于100M的资源文件，只好写一下项目总结了**
 
 Demo视频展示
-![Watch the video](https://github.com/Lucifinil0409/Unity3D_716_project/blob/master/ShowPic/716%E8%88%B0%E8%88%B9%E6%A8%A1%E6%8B%9F%E9%A1%B9%E7%9B%AE%20-%20%E5%9B%BE%E5%BD%A2%E6%8A%80%E6%9C%AFwiki.mp4)
+
+![watch the video](https://github.com/Lucifinil0409/Unity3D_716_project/blob/master/ShowPic/716%E8%88%B0%E8%88%B9%E6%A8%A1%E6%8B%9F%E9%A1%B9%E7%9B%AE%20-%20%E5%9B%BE%E5%BD%A2%E6%8A%80%E6%9C%AFwiki.mp4)
 
 军事需求
 战场态势，指作战双方各作战要素的所处状态、变化与发展趋势。“态”，强调当前状态，是对作战要素当前位置、运动参数、身份属性、类型等的描述；“势”，强调发展趋势，是对隐含的作战意图、作战能力、相互关系以及对我方构成威胁等的分析，包括军队作战任务和作战企图、行军路线、兵力部署、火力计划、阵地编成、战斗队形等内容。全面准确的掌握战场态势，是正确决策和占据战场主动的前提，是决胜战场的必要条件。
@@ -36,7 +37,9 @@ Demo视频展示
 （1）双方舰队战上遭遇战
 （2）舰船的细节显示
 场景还应包含三维岛屿，并能够展示岛屿植被信息。双方舰队遭遇时，红方舰船能够主动发射导弹攻击蓝方舰船，蓝方舰船能够开启导弹防御措施拦截或规避导弹的袭击。软件能够模拟蓝方舰船受到攻击后损坏情况，并进行光场可视化展示。舰船的细节展示应当采用自然交互方式，整个场景应当实时的光场可视化操作。
+
 海战模拟场景界面：
+
 2D：
 
 ![image](https://github.com/Lucifinil0409/Unity3D_716_project/blob/master/ShowPic/300px-%E6%B5%B7%E6%88%98%E6%A8%A1%E6%8B%9F%E5%9C%BA%E6%99%AF.png)
@@ -46,6 +49,7 @@ Demo视频展示
 ![image](https://github.com/Lucifinil0409/Unity3D_716_project/blob/master/ShowPic/300px-%E6%B5%B7%E6%88%98%E6%A8%A1%E6%8B%9F%E5%9C%BA%E6%99%AF_3D.png)
 
 舰船细节场景界面：
+
 2D：
 
 ![image](https://github.com/Lucifinil0409/Unity3D_716_project/blob/master/ShowPic/300px-%E8%88%B0%E8%88%B9%E7%BB%86%E8%8A%82%E5%9C%BA%E6%99%AF.png)
